@@ -2,6 +2,8 @@
 LEEKEONWOO
 
 🪨 I'm like a stone. 🪨
+
+loading...
 <!--
 **lkw-k/lkw-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
