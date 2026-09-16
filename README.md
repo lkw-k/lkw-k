@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:9CA3AF&height=150&section=header"/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24292F,100:9CA3AF&height=150&section=header"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E6EDF3%2C100:6E7681&height=150&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:424A53%2C100:D0D7DE&height=150&section=header"/>
 </picture>
 
 <h1 align="center">
@@ -31,16 +31,16 @@
 <br/><br/>
 
 <h5 align="center">
-  <a href="https://velog.io/@lkw_-_k/posts"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+  <a href="https://velog.io/@lkw_-_k/posts"><img align="middle" src="https://img.shields.io/badge/velog-@lkw__--__k-6E7681?style=flat-square&logo=velog&logoColor=20C997&labelColor=24292F"/></a>
   저의 생각을 정리 합니다
 </h5>
 
 <h5 align="center">
-  <a href="https://huggingface.co/illimax"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/></a>
+  <a href="https://huggingface.co/illimax"><img align="middle" src="https://img.shields.io/badge/Hugging%20Face-illimax-6E7681?style=flat-square&logo=huggingface&logoColor=FFD21E&labelColor=24292F"/></a>
   저의 모델을 공개 합니다
 </h5>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:9CA3AF,100:FFFFFF&height=100&section=footer"/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9CA3AF,100:24292F&height=100&section=footer"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6E7681%2C100:E6EDF3&height=100&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D0D7DE%2C100:424A53&height=100&section=footer"/>
 </picture>
