@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ultralytics-111F68?style=flat-square&logo=ultralytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ultralytics-111F68?style=flat-square&logo=OpenCV&logoColor=white"/>
   <img src="https://img.shields.io/badge/Optuna-2C5BB4?style=flat-square&logo=optuna&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
