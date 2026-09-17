@@ -27,9 +27,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white"/>
 </p>
-
 <br/><br/>
-
 <h5 align="center">
   <a href="https://velog.io/@lkw_-_k/posts"><img align="middle" src="https://img.shields.io/badge/velog-@lkw__--__k-6E7681?style=flat-square&logo=velog&logoColor=20C997&labelColor=24292F"/></a>
   저의 생각을 정리 합니다
